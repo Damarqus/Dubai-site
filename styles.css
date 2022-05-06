@@ -13,11 +13,22 @@ P{
 
 
 ul {
+    text-align: center;
     list-style: none;
     border: dotted;
     width: 50%;
+    padding-left: 0;
     margin: auto;
 }
     
+ul li {
+    display: inline-block;
+}
+
+img {
+display: block;
+
+
+}
 
 
